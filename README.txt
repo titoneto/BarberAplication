@@ -14,4 +14,6 @@ O aplicativo já se encontra com desenvolvimento um tanto avançado com as segui
 
 	Barber: Tela com os informações e serviços do barbeiro, redirecionado a partir da tela HOME 
 
-As demais telas (Search, Appointments, Favorites e Profile) ainda n foram desenvolvidas
+	Favorites: Tela de favorites criada com funcionalidade de busca por substring
+
+As demais telas (Search, Appointments e Profile) ainda n foram desenvolvidas
