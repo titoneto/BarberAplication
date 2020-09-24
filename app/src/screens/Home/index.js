@@ -87,6 +87,7 @@ export default () => {
         }
 
         setLoading(false);
+        console.log(barberList);
     }
 
     useEffect(() => {
